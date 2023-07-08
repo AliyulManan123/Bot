@@ -1,0 +1,60 @@
+{
+  "ownerNumber": "6283146993017",
+  "botName": "ShanBot",
+  "linkGroup": "https://chat.whatsapp.com/IpWP0AiNMLTAFKoVGaiMKg",
+  "logonya": {
+    "url": "https://raw.githubusercontent.com/Aztecs444/media/Zeck/image/gura.jpg",
+    "isLogo": false
+  },
+  "thumbnailDok": {
+    "url": "https://raw.githubusercontent.com/Aztecs444/media/Zeck/image/thumbnaildokumen.jpg"
+  },
+  "thumbnailVid": {
+    "url": "https://github.com/Zyrenn/Bnr/raw/main/VID-20230701-WA0017.mp4"
+  },
+  "limitAwal": 50,
+  "lisensi": "Bfickryfbfyrvb738hd",
+  "ownerName": "Ikhsan",
+  "6283146993017@s.whatsapp.net": {
+    "ownerNumber": "6283146993017",
+    "ownerName": "Ikhsan",
+    "botName": "ShanBot",
+    "setmenu": "image",
+    "setprefix": "yes",
+    "replytype": "mess1",
+    "mode": "public",
+    "auto": "unavailable",
+    "autoblockcmd": false,
+    "autoreport": true,
+    "autobio": true,
+    "autosticker": false,
+    "autorespon": false,
+    "autoread": true,
+    "autovn": false,
+    "autolevel": false,
+    "autojoin": false,
+    "anticall": true,
+    "antispam": false
+  },
+  "6283146993017@s.whatsapp.net": {
+    "ownerNumber": "6283146993017",
+    "ownerName": "Ikhsan",
+    "botName": "ShanBot",
+    "setmenu": "image",
+    "setprefix": "yes",
+    "replytype": "mess1",
+    "mode": "public",
+    "auto": "unavailable",
+    "autoblockcmd": false,
+    "autoreport": true,
+    "autobio": true,
+    "autosticker": false,
+    "autorespon": false,
+    "autoread": true,
+    "autovn": false,
+    "autolevel": false,
+    "autojoin": false,
+    "anticall": true,
+    "antispam": false
+  }
+}
