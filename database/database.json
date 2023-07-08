@@ -1,0 +1,896 @@
+{
+  "allcommand": {
+    "addowner": {
+      "tempFile": "./system/commands/add_owner.js"
+    },
+    "addpremium": {
+      "tempFile": "./system/commands/add_premium.js"
+    },
+    "addprem": {
+      "tempFile": "./system/commands/add_premium.js"
+    },
+    "addsewa": {
+      "tempFile": "./system/commands/add_sewa.js"
+    },
+    "addstick": {
+      "tempFile": "./system/commands/add_sticker.js"
+    },
+    "addvn": {
+      "tempFile": "./system/commands/add_vn.js"
+    },
+    "addfitur": {
+      "tempFile": "./system/commands/addfitur.js"
+    },
+    "afk": {
+      "tempFile": "./system/commands/afk_group.js"
+    },
+    "awoo": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "bite": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "blush": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "bonk": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "bully": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "cringe": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "cry": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "cuddle": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "dance": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "glomp": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "handhold": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "happy": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "highfive": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "hug": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "kick": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "kill": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "kiss": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "lick": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "megumin": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "neko": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "nom": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "pat": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "poke": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "shinobu": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "slap": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "smile": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "smug": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "waifu": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "wave": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "wink": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "yeet": {
+      "tempFile": "./system/commands/anime1.js"
+    },
+    "cuddle2": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "hug2": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "kill2": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "kiss2": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "pat2": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "punch": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "slap2": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "waifu3": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "wink2": {
+      "tempFile": "./system/commands/anime2.js"
+    },
+    "antiasing": {
+      "tempFile": "./system/commands/anti_asing.js"
+    },
+    "antibot": {
+      "tempFile": "./system/commands/anti_bot.js"
+    },
+    "anticall": {
+      "tempFile": "./system/commands/anti_call.js"
+    },
+    "antidelete": {
+      "tempFile": "./system/commands/anti_delete.js"
+    },
+    "antilink": {
+      "tempFile": "./system/commands/anti_link.js"
+    },
+    "antilinkfb": {
+      "tempFile": "./system/commands/anti_link_facebook.js"
+    },
+    "antilinkig": {
+      "tempFile": "./system/commands/anti_link_instagram.js"
+    },
+    "antilinktele": {
+      "tempFile": "./system/commands/anti_link_telegram.js"
+    },
+    "antilinktiktok": {
+      "tempFile": "./system/commands/anti_link_tiktok.js"
+    },
+    "antilinktwitter": {
+      "tempFile": "./system/commands/anti_link_twitter.js"
+    },
+    "antilinkwa": {
+      "tempFile": "./system/commands/anti_link_whatsapp.js"
+    },
+    "antilinkyt": {
+      "tempFile": "./system/commands/anti_link_youtube.js"
+    },
+    "antisange": {
+      "tempFile": "./system/commands/anti_sange.js"
+    },
+    "antispam": {
+      "tempFile": "./system/commands/anti_spam.js"
+    },
+    "antitag": {
+      "tempFile": "./system/commands/anti_tag.js"
+    },
+    "antitoxic": {
+      "tempFile": "./system/commands/anti_toxic.js"
+    },
+    "antivo": {
+      "tempFile": "./system/commands/anti_view_once.js"
+    },
+    "antivirtex": {
+      "tempFile": "./system/commands/anti_virtex.js"
+    },
+    "auto": {
+      "tempFile": "./system/commands/auto.js"
+    },
+    "autobio": {
+      "tempFile": "./system/commands/auto_bio.js"
+    },
+    "autoblockcmd": {
+      "tempFile": "./system/commands/auto_block_command.js"
+    },
+    "autojoin": {
+      "tempFile": "./system/commands/auto_join.js"
+    },
+    "autolevel": {
+      "tempFile": "./system/commands/auto_level.js"
+    },
+    "autoreactgc": {
+      "tempFile": "./system/commands/auto_react_group.js"
+    },
+    "autoread": {
+      "tempFile": "./system/commands/auto_read.js"
+    },
+    "autoreport": {
+      "tempFile": "./system/commands/auto_report.js"
+    },
+    "autorespon": {
+      "tempFile": "./system/commands/auto_respon.js"
+    },
+    "autorespongc": {
+      "tempFile": "./system/commands/auto_respon_group.js"
+    },
+    "autosticker": {
+      "tempFile": "./system/commands/auto_sticker.js"
+    },
+    "autovn": {
+      "tempFile": "./system/commands/auto_voice_message.js"
+    },
+    "backup": {
+      "tempFile": "./system/commands/back_up.js"
+    },
+    "ban": {
+      "tempFile": "./system/commands/ban.js"
+    },
+    "bc": {
+      "tempFile": "./system/commands/bc.js"
+    },
+    "bcgc": {
+      "tempFile": "./system/commands/bcgc.js"
+    },
+    "bcpc": {
+      "tempFile": "./system/commands/bcpc.js"
+    },
+    "block": {
+      "tempFile": "./system/commands/block.js"
+    },
+    "blockcmd": {
+      "tempFile": "./system/commands/block_command.js"
+    },
+    "cariteman": {
+      "tempFile": "./system/commands/cari_teman.js"
+    },
+    "cekgoblok": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekjelek": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekgay": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "ceklesbi": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekganteng": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekcantik": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekbego": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "ceksuhu": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekpinter": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekjago": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "ceknolep": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekbabi": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekbeban": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekbaik": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekjahat": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekanjing": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekharam": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekpakboy": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekpakgirl": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "ceksange": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekbaper": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekfakboy": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekalim": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekfakgirl": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekkeren": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekwibu": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekpasarkas": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "cekkul": {
+      "tempFile": "./system/commands/cek_users.js"
+    },
+    "ceksewa": {
+      "tempFile": "./system/commands/ceksewa.js"
+    },
+    "clearban": {
+      "tempFile": "./system/commands/clear_ban.js"
+    },
+    "clearblock": {
+      "tempFile": "./system/commands/clear_block.js"
+    },
+    "clearblockcmd": {
+      "tempFile": "./system/commands/clear_block_command.js"
+    },
+    "clearerror": {
+      "tempFile": "./system/commands/clear_error.js"
+    },
+    "clearjadibot": {
+      "tempFile": "./system/commands/clear_jadibot.js"
+    },
+    "clearowner": {
+      "tempFile": "./system/commands/clear_owner.js"
+    },
+    "clearpremium": {
+      "tempFile": "./system/commands/clear_premium.js"
+    },
+    "clearprem": {
+      "tempFile": "./system/commands/clear_premium.js"
+    },
+    "clearsewa": {
+      "tempFile": "./system/commands/clear_sewa.js"
+    },
+    "clearstick": {
+      "tempFile": "./system/commands/clear_sticker.js"
+    },
+    "clearvn": {
+      "tempFile": "./system/commands/clear_vn.js"
+    },
+    "closetime": {
+      "tempFile": "./system/commands/close_time.js"
+    },
+    "creategc": {
+      "tempFile": "./system/commands/create_group.js"
+    },
+    "dashboard": {
+      "tempFile": "./system/commands/dashboard.js"
+    },
+    "delcmd": {
+      "tempFile": "./system/commands/del_command.js"
+    },
+    "deljadibot": {
+      "tempFile": "./system/commands/del_jadibot.js"
+    },
+    "delowner": {
+      "tempFile": "./system/commands/del_owner.js"
+    },
+    "delpremium": {
+      "tempFile": "./system/commands/del_premium.js"
+    },
+    "delprem": {
+      "tempFile": "./system/commands/del_premium.js"
+    },
+    "delsampah": {
+      "tempFile": "./system/commands/del_sampah.js"
+    },
+    "delsewa": {
+      "tempFile": "./system/commands/del_sewa.js"
+    },
+    "delstick": {
+      "tempFile": "./system/commands/del_sticker.js"
+    },
+    "delvn": {
+      "tempFile": "./system/commands/del_vn.js"
+    },
+    "del": {
+      "tempFile": "./system/commands/delete.js"
+    },
+    "delete": {
+      "tempFile": "./system/commands/delete.js"
+    },
+    "disappearing": {
+      "tempFile": "./system/commands/disappearing.js"
+    },
+    "doxgc": {
+      "tempFile": "./system/commands/doxgc.js"
+    },
+    "doxpc": {
+      "tempFile": "./system/commands/doxpc.js"
+    },
+    "getfile": {
+      "tempFile": "./system/commands/get_file.js"
+    },
+    "getfitur": {
+      "tempFile": "./system/commands/get_fitur.js"
+    },
+    "getfolder": {
+      "tempFile": "./system/commands/get_folder.js"
+    },
+    "getid": {
+      "tempFile": "./system/commands/get_id.js"
+    },
+    "getname": {
+      "tempFile": "./system/commands/get_name.js"
+    },
+    "getpp": {
+      "tempFile": "./system/commands/get_profile.js"
+    },
+    "getppgc": {
+      "tempFile": "./system/commands/get_profile_group.js"
+    },
+    "gc": {
+      "tempFile": "./system/commands/group_open_close.js"
+    },
+    "add": {
+      "tempFile": "./system/commands/group_participants_update.js"
+    },
+    "remove": {
+      "tempFile": "./system/commands/group_participants_update.js"
+    },
+    "promote": {
+      "tempFile": "./system/commands/group_participants_update.js"
+    },
+    "demote": {
+      "tempFile": "./system/commands/group_participants_update.js"
+    },
+    "hidetag": {
+      "tempFile": "./system/commands/hidetag.js"
+    },
+    "infobot": {
+      "tempFile": "./system/commands/info_bot.js"
+    },
+    "infogc": {
+      "tempFile": "./system/commands/info_group.js"
+    },
+    "jadibot": {
+      "tempFile": "./system/commands/jadibot.js"
+    },
+    "join": {
+      "tempFile": "./system/commands/join.js"
+    },
+    "kenon": {
+      "tempFile": "./system/commands/kenon.js"
+    },
+    "kickme": {
+      "tempFile": "./system/commands/kickme.js"
+    },
+    "kontak": {
+      "tempFile": "./system/commands/kontak.js"
+    },
+    "leave": {
+      "tempFile": "./system/commands/leave.js"
+    },
+    "addlimit": {
+      "tempFile": "./system/commands/limit_balance.js"
+    },
+    "addbalance": {
+      "tempFile": "./system/commands/limit_balance.js"
+    },
+    "dellimit": {
+      "tempFile": "./system/commands/limit_balance.js"
+    },
+    "delbalance": {
+      "tempFile": "./system/commands/limit_balance.js"
+    },
+    "linkgc": {
+      "tempFile": "./system/commands/link_group.js"
+    },
+    "listban": {
+      "tempFile": "./system/commands/list_ban.js"
+    },
+    "listblock": {
+      "tempFile": "./system/commands/list_block.js"
+    },
+    "listblockcmd": {
+      "tempFile": "./system/commands/list_block_command.js"
+    },
+    "listpc": {
+      "tempFile": "./system/commands/list_chat.js"
+    },
+    "listerror": {
+      "tempFile": "./system/commands/list_error.js"
+    },
+    "listgc": {
+      "tempFile": "./system/commands/list_group.js"
+    },
+    "listjadibot": {
+      "tempFile": "./system/commands/list_jadibot.js"
+    },
+    "listowner": {
+      "tempFile": "./system/commands/list_owner.js"
+    },
+    "listpremium": {
+      "tempFile": "./system/commands/list_premium.js"
+    },
+    "listprem": {
+      "tempFile": "./system/commands/list_premium.js"
+    },
+    "listsewa": {
+      "tempFile": "./system/commands/list_sewa.js"
+    },
+    "liststick": {
+      "tempFile": "./system/commands/list_sticker.js"
+    },
+    "listvn": {
+      "tempFile": "./system/commands/list_vn.js"
+    },
+    "menu": {
+      "tempFile": "./system/commands/menu.js"
+    },
+    "mode": {
+      "tempFile": "./system/commands/mode.js"
+    },
+    "mute": {
+      "tempFile": "./system/commands/mute.js"
+    },
+    "blowjob": {
+      "tempFile": "./system/commands/nsfw1.js"
+    },
+    "neko2": {
+      "tempFile": "./system/commands/nsfw1.js"
+    },
+    "trap": {
+      "tempFile": "./system/commands/nsfw1.js"
+    },
+    "waifu2": {
+      "tempFile": "./system/commands/nsfw1.js"
+    },
+    "boobs": {
+      "tempFile": "./system/commands/nsfw2.js"
+    },
+    "hentai": {
+      "tempFile": "./system/commands/nsfw2.js"
+    },
+    "lesbian": {
+      "tempFile": "./system/commands/nsfw2.js"
+    },
+    "opentime": {
+      "tempFile": "./system/commands/open_time.js"
+    },
+    "owner": {
+      "tempFile": "./system/commands/owner.js"
+    },
+    "profile": {
+      "tempFile": "./system/commands/profile.js"
+    },
+    "qrb": {
+      "tempFile": "./system/commands/qrb.js"
+    },
+    "qc": {
+      "tempFile": "./system/commands/quick_chat.js"
+    },
+    "react": {
+      "tempFile": "./system/commands/react.js"
+    },
+    "read": {
+      "tempFile": "./system/commands/read.js"
+    },
+    "report": {
+      "tempFile": "./system/commands/report.js"
+    },
+    "revoke": {
+      "tempFile": "./system/commands/revoke.js"
+    },
+    "runtime": {
+      "tempFile": "./system/commands/runtime.js"
+    },
+    "script": {
+      "tempFile": "./system/commands/script.js"
+    },
+    "searchm": {
+      "tempFile": "./system/commands/search_message.js"
+    },
+    "setbio": {
+      "tempFile": "./system/commands/set_bio.js"
+    },
+    "setcmd": {
+      "tempFile": "./system/commands/set_command.js"
+    },
+    "setdescgc": {
+      "tempFile": "./system/commands/set_description_group.js"
+    },
+    "setmenu": {
+      "tempFile": "./system/commands/set_menu.js"
+    },
+    "setnamabot": {
+      "tempFile": "./system/commands/set_nama_bot.js"
+    },
+    "setnamagc": {
+      "tempFile": "./system/commands/set_nama_group.js"
+    },
+    "setnamaown": {
+      "tempFile": "./system/commands/set_nama_owner.js"
+    },
+    "setnoown": {
+      "tempFile": "./system/commands/set_nomer_owner.js"
+    },
+    "setprefix": {
+      "tempFile": "./system/commands/set_prefix.js"
+    },
+    "setpp": {
+      "tempFile": "./system/commands/set_profile.js"
+    },
+    "setppgc": {
+      "tempFile": "./system/commands/set_profile_group.js"
+    },
+    "setreply": {
+      "tempFile": "./system/commands/set_reply.js"
+    },
+    "setwelcome": {
+      "tempFile": "./system/commands/set_welcome.js"
+    },
+    "listharga": {
+      "tempFile": "./system/commands/sewa.js"
+    },
+    "speed": {
+      "tempFile": "./system/commands/speed.js"
+    },
+    "s": {
+      "tempFile": "./system/commands/sticker.js"
+    },
+    "sticker": {
+      "tempFile": "./system/commands/sticker.js"
+    },
+    "stopjadibot": {
+      "tempFile": "./system/commands/stop_jadibot.js"
+    },
+    "tagall": {
+      "tempFile": "./system/commands/tag_all.js"
+    },
+    "memek": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "bego": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "goblok": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "perawan": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "babi": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "tolol": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "pintar": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "asu": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "gay": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "lesby": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "bajingan": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "jancok": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "anjing": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "ngentot": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "monyet": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "mastah": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "newbie": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "bangsat": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "bangke": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "sange": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "dakjal": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "wibu": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "puki": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "pantek": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "jadian": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "jodohku": {
+      "tempFile": "./system/commands/tags_users.js"
+    },
+    "tiktokmp3": {
+      "tempFile": "./system/commands/tiktok_mp3.js"
+    },
+    "ttmp3": {
+      "tempFile": "./system/commands/tiktok_mp3.js"
+    },
+    "tiktokmp4": {
+      "tempFile": "./system/commands/tiktok_mp4.js"
+    },
+    "ttmp4": {
+      "tempFile": "./system/commands/tiktok_mp4.js"
+    },
+    "toimg": {
+      "tempFile": "./system/commands/to_inages.js"
+    },
+    "unban": {
+      "tempFile": "./system/commands/unban.js"
+    },
+    "unban1": {
+      "tempFile": "./system/commands/unban1.js"
+    },
+    "unban2": {
+      "tempFile": "./system/commands/unban2.js"
+    },
+    "unban3": {
+      "tempFile": "./system/commands/unban3.js"
+    },
+    "unblock": {
+      "tempFile": "./system/commands/unblock.js"
+    },
+    "unblockcmd": {
+      "tempFile": "./system/commands/unblock_command.js"
+    },
+    "unmute": {
+      "tempFile": "./system/commands/unmute.js"
+    },
+    "updatefile": {
+      "tempFile": "./system/commands/update_file.js"
+    },
+    "verfy": {
+      "tempFile": "./system/commands/verfy.js"
+    },
+    "vidonce": {
+      "tempFile": "./system/commands/vidonce.js"
+    },
+    "wame": {
+      "tempFile": "./system/commands/wame.js"
+    },
+    "welcome": {
+      "tempFile": "./system/commands/welcome.js"
+    },
+    "xosgc": {
+      "tempFile": "./system/commands/xosgc.js"
+    },
+    "xospc": {
+      "tempFile": "./system/commands/xospc.js"
+    },
+    "ytmp3": {
+      "tempFile": "./system/commands/youtube_mp3.js"
+    },
+    "ytmp4": {
+      "tempFile": "./system/commands/youtube_mp4.js"
+    },
+    "yts": {
+      "tempFile": "./system/commands/youtube_search.js"
+    }
+  },
+  "anonymous": [],
+  "antispam": {},
+  "banned": {},
+  "blockcmd": [],
+  "chats": {},
+  "cooldown": {},
+  "createcode": {},
+  "dashboard": {
+    "menu": {
+      "succes": 7,
+      "failed": 0
+    },
+    "s": {
+      "succes": 1,
+      "failed": 0
+    }
+  },
+  "database": {},
+  "expired": {
+    "6281357396914@s.whatsapp.net": {
+      "owner": {},
+      "premium": {},
+      "sewa": {},
+      "vip": {}
+    },
+    "628895256867@s.whatsapp.net": {
+      "owner": {},
+      "premium": {},
+      "sewa": {},
+      "vip": {}
+    }
+  },
+  "listcmd": {},
+  "listerror": {},
+  "menfes": [],
+  "message": {
+    "6285748411847@s.whatsapp.net": {
+      "key": {
+        "id": "2E77000329BC8597624C4B8ACD793160",
+        "fromMe": false,
+        "remoteJid": "6285748411847@s.whatsapp.net",
+        "participant": ""
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": ".menu",
+          "previewType": "NONE",
+          "inviteLinkGroupTypeV2": "DEFAULT"
+        }
+      }
+    }
+  },
+  "settings": {},
+  "users": {
+    "6281357396914@s.whatsapp.net": {
+      "name": "indosat ku",
+      "date": "7 Juli 2023",
+      "level": "Low Tier",
+      "xp": 1,
+      "balance": 0,
+      "limit": 30
+    },
+    "6285748411847@s.whatsapp.net": {
+      "name": "Rangga",
+      "date": "7 Juli 2023",
+      "level": "Primordial Glory",
+      "xp": 1,
+      "balance": 0,
+      "limit": 30
+    },
+    "628895256867@s.whatsapp.net": {
+      "name": "Li",
+      "date": "8 Juli 2023",
+      "level": "Low Tier",
+      "xp": 1,
+      "balance": 0,
+      "limit": 30
+    }
+  }
+}
