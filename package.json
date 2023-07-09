@@ -1,6 +1,6 @@
 {
-    "name": "Rangga-RssDev-Bot",
-    "version": "3.1.1",
+    "name": "Rangga-RssDev-bot",
+    "version": "3.3.1",
     "description": "",
     "main": "index.js",
     "type": "commonjs",
@@ -8,7 +8,7 @@
         "start": "node ."
     },
     "keywords": [],
-    "author": "Rangga",
+    "author": "",
     "license": "ISC",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -29,7 +29,9 @@
         "parse-ms": "^2.1.0",
         "qrcode": "^1.5.1",
         "rimraf": "^3.0.2", 
-        "youtubei": "^0.0.1-rc.36"
+        "youtubei": "^0.0.1-rc.36",
+        "node-fetch": "^3.3.1",
+        "cheerio": ""
     },
     "_moduleAliases": {
         "@libs": "system/libs",
