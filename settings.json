@@ -4,13 +4,13 @@
   "linkGroup": "https://chat.whatsapp.com/IpWP0AiNMLTAFKoVGaiMKg",
   "logonya": {
     "url": "https://raw.githubusercontent.com/Aztecs444/media/Zeck/image/gura.jpg",
-    "isLogo": false
+    "isLogo": true
   },
   "thumbnailDok": {
     "url": "https://raw.githubusercontent.com/Aztecs444/media/Zeck/image/thumbnaildokumen.jpg"
   },
   "thumbnailVid": {
-    "url": "https://github.com/Zyrenn/Bnr/raw/main/VID-20230701-WA0017.mp4"
+    "url": "https://telegra.ph/file/953eaddc8ba254114ced0.mp4"
   },
   "limitAwal": 50,
   "lisensi": "Bfickryfbfyrvb738hd",
@@ -19,8 +19,8 @@
     "ownerNumber": "6283146993017",
     "ownerName": "Ikhsan",
     "botName": "ShanBot",
-    "setmenu": "image",
-    "setprefix": "yes",
+    "setmenu": "gif",
+    "setprefix": "all",
     "replytype": "mess2",
     "mode": "public",
     "auto": "unavailable",
@@ -28,7 +28,7 @@
     "autoreport": true,
     "autobio": true,
     "autosticker": false,
-    "autorespon": false,
+    "autorespon": true,
     "autoread": true,
     "autovn": false,
     "autolevel": false,
