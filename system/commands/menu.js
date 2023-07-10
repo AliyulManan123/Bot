@@ -10,7 +10,7 @@ module.exports = {
     callback: async ({ sock, m, prefix, thePrefix }) => {
         const menunya = menu(m, thePrefix)
         const fiturnya = fitur(prefix)
-        const thumbnail = await getBuffer(config.logonya.isLogo? config.logonya.url : "https://raw.githubusercontent.com/Zyrenn/Mihye/main/" + randomNomor(8) + ".jpg")
+        const thumbnail = await getBuffer(config.logonya.isLogo? config.logonya.url : "https://telegra.ph/file/1c3e5efdf57be09c978c7.jpg" + randomNomor(8) + ".jpg")
         let options = {
         externalAdReply: {
         showAdAttribution: true,

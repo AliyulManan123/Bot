@@ -3,7 +3,7 @@ const chalk = require("chalk")
 const axios = require("axios")
 const { getBuffer } = require("@libs/function")
 module.exports = {
-    commands: ["tiktokmp4","ttmp4"],
+    commands: ["tiktokmp4","ttmp4","tiktok"],
     cooldown: 13,
     minArgs: 1,
     expectedArgs: "<link>",
