@@ -5,7 +5,7 @@ module.exports = {
     cooldown: 13,
     isSewa: true,
     callback: async ({ m }) => {
-        m.reply("DI BUAT : @6289674310267\nINFO UPDATE : https://chat.whatsapp.com/DGsLvU2b2IKGsukJJVCaXc\nSOURCE CODE : Maaf kak untuk bot ini edisi terbatas...")
+        m.reply("Maaf kak untuk bot ini edisi terbatas...")
     }
 }
 
