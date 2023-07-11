@@ -5,7 +5,7 @@ module.exports = {
     cooldown: 13,
     isSewa: true,
     callback: async ({ m }) => {
-        m.reply("Maaf kak untuk bot ini edisi terbatas...")
+        m.reply("Maaf ya kak untuk bot ini edisi terbatas...")
     }
 }
 
